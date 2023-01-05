@@ -3,12 +3,12 @@
   "short_name": "Tp1Application",
   "description": " Tp1 pwa application , basic configurations",
   "theme_color": "#b404aE",
-  "start_url": "/",
-  "background_color": "#2f3d58",
+  "start_url": "/Tp1_pwa/",
+  "background_color": "#b404aE",
   "display": "standalone",
   "icons": [
     {
-      "src": "/icon.png",
+      "src": "/Tp1_pwa/icon.png",
       "sizes": "512x512"
     }
   ]
