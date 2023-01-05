@@ -22,6 +22,7 @@ self.addEventListener("fetch", (event) => {
 
         // Save the resource in the cache.
         cache.put(event.request, fetchResponse.clone());
+        if(navigator.offLine)
         console.log('en ligne');
 
         // And return it.
