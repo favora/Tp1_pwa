@@ -37,3 +37,9 @@ self.addEventListener("fetch", (event) => {
     })()
   );
 });
+
+
+self.addEventListener('offline', (e) => { console.log('offline'); });
+
+self.addEventListener('online', (e) => { console.log('online'); });
+

@@ -3,7 +3,7 @@
   "short_name": "Tp1Application",
   "description": " Tp1 pwa application , basic configurations",
   "theme_color": "#b404aE",
-  "start_url": "http://localhost:8080/",
+  "start_url": "/",
   "background_color": "#2f3d58",
   "display": "standalone",
   "icons": [
