@@ -1,0 +1,15 @@
+{
+  "name": "TP1 Application",
+  "short_name": "Tp1Application",
+  "description": " Tp1 pwa application , basic configurations",
+  "theme_color": "#b404aE",
+  "start_url": "http://localhost:8080/",
+  "background_color": "#2f3d58",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512"
+    }
+  ]
+}
